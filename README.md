@@ -49,58 +49,60 @@ https://github.com/hualili/opencv/tree/master/deep-learning-2020S
 
 ## Lecture Schedule - Action Items
 
-- [ ] Week 1: Intro to Deep Learning
+We have online classes Tuesday and Thursday.
+
+- [ ] Week 1 (Aug 21 - Aug 27, 2022): Intro to Deep Learning
     - Neural Networks, Math Formulation, Intro to Digital Images and Video Formation
     - Image Processing Techniques with OpenCV for Images and Video Manipulations
 
-- [ ] Week 2: Intro Convolutional Neural Networks
+- [ ] Week 2 (Aug 28 - Sept 3, 2022): Intro Convolutional Neural Networks
     - Universal Workflow of Machine Learning
     - Intro to Alex Net, 2D Convolutional Technique
 
-- [ ] Week 3: Intro to Computer Vision
+- [ ] Week 3 (Sept 4 - Sept 10, 2022): Intro to Computer Vision
     - Techniques for ROI (Region of Interests) Definition, Binary Image Processing, Canny Edge Detection, Floodfill Algorithm, Moments Computations, Hough Transform and Contour Analysis Feature Selections
     - Tensorflow Keras Handwritten Digits Recognition
 
-- [ ] Week 4: Fundamentals of Machine Learning
+- [ ] Week 4 (Sept 11 - Sept 17, 2022): Fundamentals of Machine Learning
     - Homework Due for Handwritten Digits Recognition
 
-- [ ] Week 5: Evaluating Machine Learning Models
+- [ ] Week 5 (Sept 18 - Sept 24, 2022): Evaluating Machine Learning Models
     - Perceptron Neural Networks
     - Deep Learning Models Trained by Back Propagation Technique
     - Yolo CNN
 
-- [ ] Week 6: People and Object Detection & Recognition
+- [ ] Week 6 (Sept 25 - Oct 1, 2022): People and Object Detection & Recognition
     - Yolo CNN
     - Data Processing
     - Over-fitting and Under-fitting.
     - Inspecting and Monitoring Deep Learning
     - Stereo Vision, Point Cloud, Point Net Technique, and applications, such as Self Driving Navigation or Active Assistance Driving Systems
 
-- [ ] Week 7: Midterm
+- [ ] Week 7 (Oct 2 - Oct 8, 2022): Midterm
     - Function Approximation based on Bayes Theory
 
-- [ ] Week 8: Point Net Object Detections and Recognition
+- [ ] Week 8 (Oct 9 - Oct 15, 2022): Point Net Object Detections and Recognition
     - Homework Due for Yolo CNN
     - Behavior Analysis Technique and Stick Diagrams Analysis
 
-- [ ] Week 9: Image Segmentation Techniques
+- [ ] Week 9 (Oct 16 - Oct 22, 2022): Image Segmentation Techniques
     - Fast RCNN and Behavior Analysis
 
-- [ ] Week 10: Image Segmentation Techniques
+- [ ] Week 10 (Oct 23 - Oct 29, 2022): Image Segmentation Techniques
     - Fast RCNN and Behavior Analysis
 
-- [ ] Week 11: Motion Estimation and Semantic Segmentation
+- [ ] Week 11 (Oct 30 - Nov 5, 2022): Motion Estimation and Semantic Segmentation
     - RCNN, Perceptron Neural Networks
 
-- [ ] Week 12: Deep Learning for Text and Sequences
+- [ ] Week 12 (Nov 6 - Nov 12, 2022): Deep Learning for Text and Sequences
 
-- [ ] Week 13: Case Study on CNN
+- [ ] Week 13 (Nov 13 - Nov 19, 2022): Case Study on CNN
     - Behavior Anlaysis and Point Nets
     - Steepest Gradient Descent Technique
 
-- [ ] Week 14: Case Study on CNN
+- [ ] Week 14 (Nov 20 - Nov 26, 2022): Case Study on CNN
     - Behavior Anlaysis and Point Nets
 
-- [ ] Week 15: Comparative Study
+- [ ] Week 15 (Nov 27 - Dec 3, 2022): Comparative Study
 
-- [ ] Week 16: Final Comprehensive Exam
+- [ ] Week 16 (Dec 4 - Dec 10, 2022): Final Comprehensive Exam
