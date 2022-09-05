@@ -80,6 +80,7 @@ We have online classes Tuesday and Thursday.
 
 - [ ] Week 7 (Oct 2 - Oct 8, 2022): Midterm
     - Function Approximation based on Bayes Theory
+    - **Midterm** is either **Tue Oct 4** or **Thur Oct 6** from **4:30PM - 5:45PM**
 
 - [ ] Week 8 (Oct 9 - Oct 15, 2022): Point Net Object Detections and Recognition
     - Homework Due for Yolo CNN
@@ -106,3 +107,4 @@ We have online classes Tuesday and Thursday.
 - [ ] Week 15 (Nov 27 - Dec 3, 2022): Comparative Study
 
 - [ ] Week 16 (Dec 4 - Dec 10, 2022): Final Comprehensive Exam
+    - **Final** is potentially **Thursday, December 8** from **2:45PM - 5PM**
