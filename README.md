@@ -51,13 +51,25 @@ https://github.com/hualili/opencv/tree/master/deep-learning-2020S
 
 We have online classes Tuesday and Thursday.
 
+For the Recordings in our Lecture Schedule, refer to Dr. Harry Li's GitHub Repo Link: [2022F-102-zoom-cmpe258-2022-9-2.pdf](https://github.com/hualili/opencv/blob/master/deep-learning-2022s/2022F-102-zoom-cmpe258-2022-9-2.pdf)
+
+    - Note: this PDF at the GitHub link will be udpated after Dr. Li completes each lecture.
+
+My goal with each lecture will be to tailor the fundamentals to medical imaging and sometimes skateboarding.
+
 - [ ] Week 1 (Aug 21 - Aug 27, 2022): Intro to Deep Learning
-    - Neural Networks, Math Formulation, Intro to Digital Images and Video Formation
-    - Image Processing Techniques with OpenCV for Images and Video Manipulations
+    - Harry Li for Aug 23 Tuesday writes **Organizational Meeting**
+    - Harry Li for Aug 25 Thursday writes **Introduction, Quick Look at DCNN Architecture and Single Neuron**
+    - Our **syllabus** said the following:
+        - Neural Networks, Math Formulation, Intro to Digital Images and Video Formation
+        - Image Processing Techniques with OpenCV for Images and Video Manipulations
 
 - [ ] Week 2 (Aug 28 - Sept 3, 2022): Intro Convolutional Neural Networks
-    - Universal Workflow of Machine Learning
-    - Intro to Alex Net, 2D Convolutional Technique
+    - Harry Li for Aug 30 Tuesday writes **Notation, Formulation and Loss Function**
+    - Harry Li for Sept 1 Thursday writes **Formulation and Loss Function**
+    - Our **syllabus** said the following:
+        - Universal Workflow of Machine Learning
+        - Intro to Alex Net, 2D Convolutional Technique
 
 - [ ] Week 3 (Sept 4 - Sept 10, 2022): Intro to Computer Vision
     - Techniques for ROI (Region of Interests) Definition, Binary Image Processing, Canny Edge Detection, Floodfill Algorithm, Moments Computations, Hough Transform and Contour Analysis Feature Selections
