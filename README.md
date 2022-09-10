@@ -63,6 +63,8 @@ My goal with each lecture will be to tailor the fundamentals to medical imaging 
     - Our **syllabus** said the following:
         - Neural Networks, Math Formulation, Intro to Digital Images and Video Formation
         - Image Processing Techniques with OpenCV for Images and Video Manipulations
+    - [x] Harry Li assigned **[Homework 0: Install Anaconda and OpenCV](./Homeworks/Hw0_Install_Conda_OpenCV/README.md)**, which was due on **Sept 1, 2022** at **11:59PM**
+
 
 - [ ] Week 2 (Aug 28 - Sept 3, 2022): Intro Convolutional Neural Networks
     - Harry Li for Aug 30 Tuesday writes **Notation, Formulation and Loss Function**
@@ -72,8 +74,12 @@ My goal with each lecture will be to tailor the fundamentals to medical imaging 
         - Intro to Alex Net, 2D Convolutional Technique
 
 - [ ] Week 3 (Sept 4 - Sept 10, 2022): Intro to Computer Vision
-    - Techniques for ROI (Region of Interests) Definition, Binary Image Processing, Canny Edge Detection, Floodfill Algorithm, Moments Computations, Hough Transform and Contour Analysis Feature Selections
-    - Tensorflow Keras Handwritten Digits Recognition
+    - Harry Li for Sept 6 Tuesday writes  **Gradient Descent**
+    - Harry Li for Sept 8 Thursday writes **Gradient Descent, OpenCV Homework**
+    - Our **syllabus** said the following:
+        - Techniques for ROI (Region of Interests) Definition, Binary Image Processing, Canny Edge Detection, Floodfill Algorithm, Moments Computations, Hough Transform and Contour Analysis Feature Selections
+        - Tensorflow Keras Handwritten Digits Recognition
+    - Harry Li assigned Python **[Homework 1: OpenCV and Canny Edge Detection](./Homeworks/Hw1_OpenCV_Canny_Edge_Detection/README.md)** on Tuesday Sept 6, 2022. It is due on **Sept 15, 2022** at **11:59PM**
 
 - [ ] Week 4 (Sept 11 - Sept 17, 2022): Fundamentals of Machine Learning
     - Homework Due for Handwritten Digits Recognition
