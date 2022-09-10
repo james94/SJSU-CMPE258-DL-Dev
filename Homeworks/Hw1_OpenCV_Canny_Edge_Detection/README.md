@@ -27,3 +27,8 @@ file into this folder. (Use the following naming convention:
 `hw1_opencv_canny_cmpe258_First_last_name_SID`
 
 Then zip it and submit it to the CANVAS.
+
+Refer to Harry Li's Sample Code if needed in sample_code folder:
+
+- [display_image.py](./sample_code/display_image.py)
+- [display_canny_edge_image.py](./sample_code/display_canny_edge_image.py)
