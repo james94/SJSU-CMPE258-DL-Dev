@@ -82,7 +82,10 @@ My goal with each lecture will be to tailor the fundamentals to medical imaging 
     - Harry Li assigned Python **[Homework 1: OpenCV and Canny Edge Detection](./Homeworks/Hw1_OpenCV_Canny_Edge_Detection/README.md)** on Tuesday Sept 6, 2022. It is due on **Sept 15, 2022** at **11:59PM**
 
 - [ ] Week 4 (Sept 11 - Sept 17, 2022): Fundamentals of Machine Learning
-    - Homework Due for Handwritten Digits Recognition
+    - Harry Li for Sept 13 Tuesday writes **Preliminary Simple Python Code for FFNN Implementation (without TF)**
+    - Harry Li for Sept 15 Thursday writes **Finish Up Simple Python code for FFNN, Binary Images**
+    - Our **syllabus** said the following:
+        - Homework Due for Handwritten Digits Recognition
 
 - [ ] Week 5 (Sept 18 - Sept 24, 2022): Evaluating Machine Learning Models
     - Perceptron Neural Networks
